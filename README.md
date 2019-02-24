@@ -1,6 +1,6 @@
 # Students_Record_System
 Artificial Students data Record System Using C++ <br>
-To save record and let user to view his/her detail(grade, gpax, etc).
+To save record and let user to view his/her detail (grade, gpax, etc).
 ## Execution
 <b>Linux :</b>
 
@@ -19,13 +19,14 @@ $ g++ –version or g++ –v
 
 <b>Step 3.</b> Compile the program using any of the following command:
 ```
-$ sudo g++ Payroll Management System.cpp 
+$ sudo g++ RegisterSystem.cpp 
 ```
 (or)
 ```
-$ sudo g++ -o hello Payroll Management System.cpp
+$ sudo g++ -o hello RegisterSystem.cpp
 ```
 <b>[Note: Make sure you are in the same directory where you have created your program before compiling it.]</b><br>
+
 <b>Step 4.</b> To run this program type this command:
 ```
 $ ./a.out (If you compiled using first command)

@@ -24,7 +24,7 @@ $ sudo g++ Payroll Management System.cpp
 ```
 $ sudo g++ -o hello Payroll Management System.cpp
 ```
-<b><u>[Note: Make sure you are in the same directory where you have created your program before compiling it.]</b></u>
+<b>[Note: Make sure you are in the same directory where you have created your program before compiling it.]</b><br>
 Step 4. To run this program type this command:
 ```
 $ ./a.out (If you compiled using first command)
